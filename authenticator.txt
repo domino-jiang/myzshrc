@@ -1,0 +1,13 @@
+otpauth://totp/fort.xin66.cn:jiangnan3?secret=6GKFWALSUCC4ZYB3&issuer=fort.xin66.cn
+otpauth://totp/LinOTP:VPN.XIN.COM?secret=R5QG4VKPGXUCZPDLWUB5PH7DM7AMOLNS&issuer=LinOTP
+otpauth://totp/Aliyun:jiangnan3%40uxingroup?secret=TA5X4U7JU4GNCBQBPCK7KURWALVK6ML5WCEYOIZEXREJO6EW235IB2FP3N6Z3TAH&issuer=Aliyun
+otpauth://totp/fort.xin.com:ined%2Fjiangnan3?secret=LHD47FMXXWD6RJUZ&issuer=fort.xin.com
+otpauth://totp/Tencent%20Cloud%20Services:%E8%B4%A6%E5%8F%B7ID%EF%BC%9A100000326818?secret=74C43U4ZZMG27QVR&issuer=Tencent%20Cloud%20Services
+otpauth://totp/JumpServer:admin?secret=HYV7H6XK3NIVYN66&issuer=JumpServer
+otpauth://totp/(:renzhe.cloud?secret=5GWX3CZTZY4U7ZJY&issuer=(
+otpauth://totp/sso.paloaltonetworks.com:jiangnan3%40xin.com?secret=T5NJOY366D7RYMCGX4B5UOMVT4WVXTZ4&issuer=sso.paloaltonetworks.com
+otpauth://totp/Google:domino.jiang%40gmail.com?secret=HVYQ5NSJHGPCO4RBLHJJEN6R5IW6CFYF&issuer=Google
+otpauth://totp/Slack:domino.jiang%40gmail.com?secret=OUI2S6ZUWTXOWXFO&issuer=Slack
+otpauth://totp/Bright%20Data?secret=PUYUERBDLVUUGWS5EZTEEPSIEFTCKJJDGVFUS5BRJNRDMQDPFBWQ
+otpauth://totp/(:ined%2F155554088%20%40%20GoDaddy?secret=CEIWRWFJ5765VXXS&issuer=(
+otpauth://totp/PayPal:domino.jiang%40gmail.com?secret=NLPY6VDE2OANBDEI&issuer=PayPal
