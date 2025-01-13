@@ -1,5 +1,5 @@
 otpauth://totp/fort.xin66.cn:jiangnan3?secret=6GKFWALSUCC4ZYB3&issuer=fort.xin66.cn
-otpauth://totp/LinOTP:VPN.XIN.COM?secret=R5QG4VKPGXUCZPDLWUB5PH7DM7AMOLNS&issuer=LinOTP
+otpauth://totp/LinOTP:VPN.XIN.COM?secret=Y4ZONEFZE6VFKA6X4SQOVCJIM2ATCWG2&issuer=LinOTP
 otpauth://totp/Aliyun:jiangnan3%40uxingroup?secret=TA5X4U7JU4GNCBQBPCK7KURWALVK6ML5WCEYOIZEXREJO6EW235IB2FP3N6Z3TAH&issuer=Aliyun
 otpauth://totp/fort.xin.com:ined%2Fjiangnan3?secret=LHD47FMXXWD6RJUZ&issuer=fort.xin.com
 otpauth://totp/Tencent%20Cloud%20Services:%E8%B4%A6%E5%8F%B7ID%EF%BC%9A100000326818?secret=74C43U4ZZMG27QVR&issuer=Tencent%20Cloud%20Services
