@@ -127,3 +127,4 @@ alias start_wrap='ALL_PROXY="127.0.0.1:7890" open -a warp'
 alias yz='yazi'
 alias hfz='ssh uxin@10.35.2.32' #uxin6666
 alias iplookup=myiplookup
+alias myip='curl 4.ipcheck.ing/geo'
