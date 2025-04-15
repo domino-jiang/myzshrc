@@ -6,7 +6,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 # If you come from bash you might have to change your $PATH.
-export PATH=$HOME/bin:/usr/local/bin/login-lib-master/:$PATH
+export PATH=$HOME/bin:/usr/local/bin/login-lib-master/:$HOME/.local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -128,3 +128,11 @@ alias yz='yazi'
 alias hfz='ssh uxin@10.35.2.32' #uxin6666
 alias iplookup=myiplookup
 alias myip='curl 4.ipcheck.ing/geo'
+alias v="open $1 -a \"Visual Studio Code\""
+alias t="open $1 -a \"Trae\""
+
+. "$HOME/.local/bin/env"
+# export HOMEBREW_API_DOMAIN="https://mirrors.aliyun.com/homebrew-bottles/api"
+# export HOMEBREW_BREW_GIT_REMOTE="https://mirrors.aliyun.com/homebrew/brew.git"
+# export HOMEBREW_CORE_GIT_REMOTE="https://mirrors.aliyun.com/homebrew/homebrew-core.git"
+# export HOMEBREW_BOTTLE_DOMAIN="https://mirrors.aliyun.com/homebrew/homebrew-bottles"
